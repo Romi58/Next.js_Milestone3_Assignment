@@ -17,7 +17,7 @@ To set up the project locally, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/blog-with-comments.git
+git clone https://github.com/Romi58/Next.js_Milestone3_Assignment.git
 
 # Navigate to the project directory
 cd blog-with-comments
